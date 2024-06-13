@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Playing https://discord.gg/netflixacc"];
+const statusMessages = ["Played by !MED | BIMO"];
 
 
 let currentIndex = 0;
