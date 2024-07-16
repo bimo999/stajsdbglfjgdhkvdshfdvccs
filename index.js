@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Playing by !MED | BIMO"];
+const statusMessages = ["Playing by !MED | BIMO","discord.gg/brl-s"];
 
 
 let currentIndex = 0;
